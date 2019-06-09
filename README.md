@@ -433,7 +433,7 @@ If you've followed along thus far, your code should look like:
 ````python
 from clarifai.rest import ClarifaiApp
 #YOUR_API_KEY
-app = ClarifaiApp(api_key="dc0dbc77af64409b81d16210387fb2e2")
+app = ClarifaiApp(api_key="YOUR_API_KEY")
 model = app.models.get('food-items-v1.0')
 result = model.predict_by_url('https://samples.clarifai.com/food.jpg')
 ###
