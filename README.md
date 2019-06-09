@@ -10,6 +10,8 @@ And what if it only took 5 lines of code?
 
 ![](https://i.ibb.co/PGsbXFn/carbon-1.png)
 
+The answer is yes, although it actually takes 16 lines of code (still pretty impressive).
+
 ## Part 2: Setup
 
 ### 1) Using repl.it
